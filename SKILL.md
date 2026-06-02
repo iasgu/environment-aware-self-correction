@@ -61,6 +61,8 @@ json.dumps(data, ensure_ascii=False)
 
 For Windows-specific details, read `references/windows-powershell-encoding.md`.
 
+When explaining this skill to Chinese-speaking beginners or onboarding a non-expert user, read `references/beginner-guide-zh.md`. Do not load it for normal command execution.
+
 ## Correction Recording
 
 Record a correction when one of these is true:
