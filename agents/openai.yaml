@@ -1,0 +1,3 @@
+display_name: Environment-Aware Self Correction
+short_description: Probe env and avoid repeat command mistakes.
+default_prompt: Use this skill to inspect the local environment before risky commands, choose safe shell and encoding patterns, and record repeated corrections as reusable rules.
